@@ -6,3 +6,4 @@ Just learning Python, started with data visualization interest and slowly taking
 6 FEB - Python webscraper published, used to pull a quote off a website. 
 <br>
 3 MAR - Python Loops breakdown from Coursera automation course
+9 MAR - Python recurssion workbooks
