@@ -9,3 +9,5 @@ Just learning Python, started with data visualization interest and slowly taking
 9 MAR - Python recurssion workbooks
 
 16 APR - Ading Python Practice Updates to py file
+
+19 FEB - Python visualization for node relationship mapping (highly customized)
